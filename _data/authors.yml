@@ -1,0 +1,114 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  name:              SheiUn
+  email:             me.sheiun@gmail.com
+  github:            sheiun
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+
+    Open `_data/authors.yml` to edit this text.
+
+  # This photo will be used in the about section.
+  picture:
+    path:            https://placehold.it/128x128
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            https://placehold.it/128x128
+      2x:            https://placehold.it/256x256
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  # social:
+    # twitter:         <username>
+    # github:          <username>
+    # download:        <url>
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+
+member1:
+  name: 病毒s星戀舞
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    這是我啦  拳士(不專業門派長) 病毒s星戀舞  
+    為了咒術50拿衣服活動的過程中喜歡上咒術師  
+    不用2RF好幸福(手快抽筋) 拳對我來說難度很高(我笨>"<)  
+    當初只想拿衣服隨便玩就創了男角色  
+    結果..現在只能拋棄女生水水的衣服了QQ 嗚嗚..  
+    ![](https://truth.bahamut.com.tw/s01/201504/0e602ee966e8a68e2388cc16e54eafc2.JPG)  
+
+  picture:
+    path: http://gamepic.tw.ncsoft.com/images/0201/84/mKIjAAAAAAA=.jpg
+  
+  social:
+    gbns: 病毒乄凜夜時雨
+    bnstree: 病毒乄凜夜時雨
+
+member2:
+  name: 莫語
+
+  about:             |
+    副門派長   莫語   拳師  
+    拳士玩得不錯的阿北~因為聲音臭老所以叫他阿北XD  
+    之前跟他出副本常常唸我 "你到底是不是拳師阿" 哈哈  
+    ![](https://truth.bahamut.com.tw/s01/201504/f520025d29f01d09cf812214a09ff934.JPG)  
+
+  picture:
+    path: http://gamepic.tw.ncsoft.com/images/0201/20/DD4BAAAAAAA=.jpg
+  
+  social:
+    gbns: 莫語
+    bnstree: 莫語
+
+member2:
+  name: CrazyTK 楓曉羽
+
+  about:             |
+    一對恩愛歡樂的夫妻 給人感覺很幸福♥  
+    上線時間不一定  有時候半夜也會出沒  
+    ![](https://truth.bahamut.com.tw/s01/201507/72d3860cd9b6057959e5600b88ca8675.JPG)  
+
+  picture:
+    path: http://via.placeholder.com/256x256?text=?
+  
+  social:
+    gbns: CrazyTK
+    bnstree: CrazyTK
