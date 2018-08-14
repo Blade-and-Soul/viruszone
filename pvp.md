@@ -20,3 +20,6 @@ order: 7
 
 影片:  
 [![](https://i.ytimg.com/vi/VuiqWE_LW_o/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAhXgBxPOJ--h-MZxwh8A3mV6yD5Q =100%x)](https://www.youtube.com/watch?v=VuiqWE_LW_o "第一屆 精彩集錦"){:target="_blank"}
+
+## 第二屆
+比賽進行中...
