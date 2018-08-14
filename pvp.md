@@ -16,7 +16,7 @@ order: 7
 <table>
   <thead>
     <tr>
-      <th colspan=3>個人戰</th>
+      <td colspan=3>個人戰</td>
     </tr>
   </thead>
   <tbody>
