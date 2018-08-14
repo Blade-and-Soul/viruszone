@@ -15,7 +15,7 @@ order: 7
 ## 第一屆
 <table>
   <tr>
-    <th colspan=3>個人戰</td>
+    <th colspan=3>個人戰</th>
   </tr>
   <tr>
     <td>冠軍</td>
