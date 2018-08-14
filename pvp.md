@@ -67,13 +67,14 @@ order: 7
 
 ## 第二屆
 ### 個人戰
-|咒術|緋色拉拉熊|志燮弟弟丷|梅林ccc|病毒乄凜夜時雨|Debian|*米斯頓葛|梨雨丷|勝場(總分)|名次|獎金|
-|----------------|------------|------------|---------|----------------|--------|-----------|--------|-------------|------|------|
-|緋色拉拉熊||2|2|2|2|1|1|4(10)|2|150|
-|志燮弟弟丷|0||0|0|0|0|0|0(0)|6|0|
-|梅林ccc|1|2||2|2|2|0|4(9)|3|50|
-|病毒乄凜夜時雨|0|2|0||0|0|1|1(3)|5|0|
-|Debian|0|2|0|2||0|0|2(4)|4|0|
-|\*米斯頓葛|2|2|1|2|2||2|5(11)|*|*|
-|梨雨丷|2|2|2|2|2|0||5(10)|1|300|
-|敗場|2|6|2|5|4|1|1||||
+<table>
+<thead><tr><th>咒術</th><th>緋色拉拉熊</th><th>志燮弟弟丷</th><th>梅林ccc</th><th>病毒乄凜夜時雨</th><th>Debian</th><th>*米斯頓葛</th><th>梨雨丷</th><th>勝場 (總分)</th><th>名次</th><th>獎金</th></tr></thead><tbody>
+ <tr><td>緋色拉拉熊</td><td>&nbsp;</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>4 (10)</td><td>2</td><td>150</td></tr>
+ <tr><td>志燮弟弟丷</td><td>0</td><td>&nbsp;</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 (0)</td><td>6</td><td>0</td></tr>
+ <tr><td>梅林ccc</td><td>1</td><td>2</td><td>&nbsp;</td><td>2</td><td>2</td><td>2</td><td>0</td><td>4 (9)</td><td>3</td><td>50</td></tr>
+ <tr><td>病毒乄凜夜時雨</td><td>0</td><td>2</td><td>0</td><td>&nbsp;</td><td>0</td><td>0</td><td>1</td><td>1 (3)</td><td>5</td><td>0</td></tr>
+ <tr><td>Debian</td><td>0</td><td>2</td><td>0</td><td>2</td><td>&nbsp;</td><td>0</td><td>0</td><td>2 (4)</td><td>4</td><td>0</td></tr>
+ <tr><td>*米斯頓葛</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>&nbsp;</td><td>2</td><td>5 (11)</td><td>*</td><td>*</td></tr>
+ <tr><td>梨雨丷</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>0</td><td>&nbsp;</td><td>5 (10)</td><td>1</td><td>300</td></tr>
+ <tr><td>敗場</td><td>2</td><td>6</td><td>2</td><td>5</td><td>4</td><td>1</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td></td></tr>
+</tbody></table>
