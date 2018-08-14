@@ -15,12 +15,11 @@ order: 7
 ## 第一屆
 <table>
   <thead>
-    
+    <tr>
+      <th>個人戰</th>
+    </tr>
   </thead>
   <tbody>
-    <tr>
-      <td colspan=3>個人戰</td>
-    </tr>
     <tr>
       <td>冠軍</td>
       <td>守護水*1<br />獎金500G<br />獲得VIRUSZONE武神寶座(無條件參加下一屆比賽)</td>
