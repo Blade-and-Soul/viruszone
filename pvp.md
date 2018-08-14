@@ -14,29 +14,33 @@ order: 7
 
 ## 第一屆
 <table>
-  <tr>
-    <th colspan=3>個人戰</th>
-  </tr>
-  <tr>
-    <td>冠軍</td>
-    <td>守護水*1<br />獎金500G<br />獲得VIRUSZONE武神寶座(無條件參加下一屆比賽)</td>
-    <td>陰謀CCC</td>
-  </tr>
-  <tr>
-    <td>亞軍</td>
-    <td>守護水*1<br />獎金200G</td>
-    <td>獨孤淚雨</td>
-  </tr>
-  <tr>
-    <td>季軍</td>
-    <td>守護水*1</td>
-    <td>蓮華躺地板</td>
-  </tr>
-  <tr>
-    <td>殿軍</td>
-    <td>獎金200G</td>
-    <td>魔璦</td>
-  </tr>
+  <thead>
+    <tr>
+      <th colspan=3>個人戰</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>冠軍</td>
+      <td>守護水*1<br />獎金500G<br />獲得VIRUSZONE武神寶座(無條件參加下一屆比賽)</td>
+      <td>陰謀CCC</td>
+    </tr>
+    <tr>
+      <td>亞軍</td>
+      <td>守護水*1<br />獎金200G</td>
+      <td>獨孤淚雨</td>
+    </tr>
+    <tr>
+      <td>季軍</td>
+      <td>守護水*1</td>
+      <td>蓮華躺地板</td>
+    </tr>
+    <tr>
+      <td>殿軍</td>
+      <td>獎金200G</td>
+      <td>魔璦</td>
+    </tr>
+  </tbody>
 </table>
 
 | 抽獎池         |
