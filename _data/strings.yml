@@ -23,7 +23,13 @@ social:                Social
 links:                 Links
 pagination:            Pagination
 newer:                 <a href="https://github.com/sheiun/">作者</a><br />一時興起的念頭<br />從回鍋到退坑的門派<br />無聊弄的 Github-Pages<br />P.s Jekyll 上手真的很快
-older:                 此公會還活著<br />加入前請先稍微閱覽門派規章<br />加入方式<br />勢力頻大喊三聲<br /><b>875 加我進病毒門派</b><br />此方法效力非常強 請小心服用
+older:                 >
+  此公會還活著
+  加入前請先稍微閱覽門派規章
+  加入方式
+  勢力頻大喊三聲
+  ** 875 加我進病毒門派 **
+  此方法效力非常強 請小心服用
 back:                  Back
 templates:             Templates (for web app)
 
